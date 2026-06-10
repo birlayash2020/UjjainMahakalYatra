@@ -1,26 +1,90 @@
 @import "tailwindcss";
 
+@theme {
+  --font-sans: var(--font-outfit), Arial, sans-serif;
+  --font-serif: var(--font-lora), Georgia, serif;
+
+  /* Custom Sacred Saffron Theme Colors */
+  --color-bhagwa: #E65100;         /* Deep Bhagwa (Kesari) */
+  --color-saffron: #FF7722;        /* Vibrant Saffron */
+  --color-marigold: #FFA726;       /* Marigold Gold */
+  --color-sacred-cream: #FFFBF2;   /* Warm Neutral Sacred Cream */
+  --color-charcoal-earth: #2C2520; /* Typography Charcoal Earth */
+
+  /* Semantic utilities */
+  --color-primary-accent: var(--color-bhagwa);
+  --color-action-ui: var(--color-saffron);
+  --color-soft-highlight: var(--color-marigold);
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --background: #FFFFFF;
+  --foreground: #2C2520;
 }
 
 body {
-  background: var(--background);
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+/* Custom premium elements */
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-bhagwa) 0%, var(--color-saffron) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-bg {
+  background: linear-gradient(135deg, var(--color-bhagwa) 0%, var(--color-saffron) 100%);
+}
+
+.gradient-bg-soft {
+  background: linear-gradient(180deg, var(--color-sacred-cream) 0%, #FFFFFF 100%);
+}
+
+.temple-border {
+  position: relative;
+}
+
+.temple-border::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: repeating-linear-gradient(
+    90deg,
+    var(--color-bhagwa),
+    var(--color-bhagwa) 10px,
+    var(--color-marigold) 10px,
+    var(--color-marigold) 20px
+  );
+}
+
+/* Custom premium scrollbar utility for modals and scrollboxes */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(44, 37, 32, 0.03); /* subtle charcoal earth tint */
+  border-radius: 9999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--color-saffron);
+  border-radius: 9999px;
+  border: 2px solid #FFFFFF; /* gap around scrollbar thumb */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: var(--color-bhagwa);
+}
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-saffron) rgba(44, 37, 32, 0.03);
 }

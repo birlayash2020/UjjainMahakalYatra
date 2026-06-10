@@ -1,0 +1,89 @@
+[
+  {
+    "id": "pkg-1",
+    "title": "Ujjain Mahakal Darshan Express",
+    "duration": "2 Days / 1 Night",
+    "rating": 5,
+    "price": "₹3,499",
+    "features": [
+      "VVIP Mahakal Bhasma Aarti Entry",
+      "Local sightseeing in AC Cab",
+      "3-Star Hotel Stay",
+      "Pandit Ji for Puja Vidhi"
+    ],
+    "tag": "Most Popular",
+    "places_covered": "Ujjain, Kal Bhairav, Harsiddhi,Mahakaleshwar Temple,Mangal Nath Temple,Navgraha Temple,Sandipani Ashram, Ram Ghat,Ujjain, Kal Bhairav, Harsiddhi,Mahakaleshwar Temple,Mangal Nath Temple,Navgraha Temple,Sandipani Ashram, Ram Ghat",
+    "itinerary": [
+      {
+        "day": "Day 1: Spiritual Arrival & Holy Darshan",
+        "details": "Arrive in Ujjain and check into your premium 3-Star hotel. After refreshing, meet our spiritual guide who will escort you to the temple. Enjoy VIP fast-track entry for Ujjain Mahakaleshwar darshan. In the evening, walk along the sacred ghats for the holy Aarti ceremony."
+      },
+      {
+        "day": "Day 2: Vedic Pujas & Departure",
+        "details": "Attend the mystical early morning Bhasma Aarti (subject to pre-booking). Participate in a customized Rudrabhishek Puja conducted by our experienced Vedic Pandit. Visit Kal Bhairav temple and Harsiddhi Shaktipeeth before returning to the station for departure."
+      }
+    ]
+  },
+  {
+    "id": "pkg-2",
+    "title": "Do Dham Yatra (Ujjain & Omkareshwar)",
+    "duration": "3 Days / 2 Nights",
+    "rating": 5,
+    "price": "₹6,999",
+    "features": [
+      "Mahakal & Omkareshwar Darshan",
+      "Mamleshwar Abhishek Puja",
+      "Ghat boat ride & Aarti",
+      "All meals & AC stays included"
+    ],
+    "tag": "Recommended",
+    "places_covered": "Ujjain, Omkareshwar, Mamleshwar",
+    "itinerary": [
+      {
+        "day": "Day 1: Arrival & Mahakal Darshan",
+        "details": "Arrive in Ujjain and check into your premium hotel. Meet our spiritual guide. Experience VIP fast-track entry for Ujjain Mahakaleshwar darshan. In the evening, witness the breathtaking Shipra River Aarti."
+      },
+      {
+        "day": "Day 2: Omkareshwar Jyotirlinga Visit",
+        "details": "Drive to Omkareshwar, the sacred island shaped like 'Om'. Cross the Narmada River by boat to visit the Jyotirlinga. Perform Mamleshwar Abhishek Puja and explore the ancient Siddhanath Temple."
+      },
+      {
+        "day": "Day 3: Shaktipeeth Darshan & Departure",
+        "details": "Visit Harsiddhi Mata Temple (one of the 51 Shaktipeeths) and Kal Bhairav Temple. Complete any pending puja vidhi with our Pandit Ji. In the afternoon, transfer to the railway station/airport for your onward journey."
+      }
+    ]
+  },
+  {
+    "id": "pkg-3",
+    "title": "Jain Tirth & Devotional Circuit",
+    "duration": "4 Days / 3 Nights",
+    "rating": 4,
+    "price": "₹8,499",
+    "features": [
+      "Hanumantiya Island Visit",
+      "Avanthika Parshwanath Temple",
+      "Satvik meals & comfort stays",
+      "Spiritual guide accompaniment"
+    ],
+    "tag": "Peaceful Path",
+    "places_covered": "Avantika, Hanumantiya, Indore",
+    "itinerary": [
+      {
+        "day": "Day 1: Arrival & Avantika Parshwanath",
+        "details": "Arrive in Ujjain, transfer to your hotel. Visit the ancient Avantika Parshwanath Jain Temple, a major pilgrimage site. Enjoy peaceful meditation and evening sandhya aarti."
+      },
+      {
+        "day": "Day 2: Hanumantiya Island Excursion",
+        "details": "Travel to Hanumantiya Island, the scenic water reservoir. Enjoy water sports, a boat ride, and scenic views. Return to Ujjain for a peaceful overnight stay."
+      },
+      {
+        "day": "Day 3: Jain Temples & Spiritual Talk",
+        "details": "Explore other prominent Jain temples in and around Ujjain. Savor pure satvik meals. Participate in a spiritual discussion on Jain philosophy with local scholars."
+      },
+      {
+        "day": "Day 4: Departure with Holy Blessings",
+        "details": "Attend morning prayers. Spend some time shopping for local handicrafts and spiritual books. Checkout and transfer to the airport or railway station for departure."
+      }
+    ]
+  }
+]

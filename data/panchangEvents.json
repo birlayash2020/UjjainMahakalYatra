@@ -1,0 +1,69 @@
+[
+  {
+    "id": "event-past",
+    "title": "Ganga Dussehra",
+    "date": "2026-06-01",
+    "category": "Past Festival",
+    "significance": "Celebrates the holy descent of the sacred River Ganga to Earth. Commemorated with clay oil lamps on ghats.",
+    "benefits": "Taking a holy dip in the Shipra river at Ram Ghat, Ujjain.",
+    "recommendedPackageId": "pkg-1",
+    "temple": "Ram Ghat & Shipra River, Ujjain",
+    "puja": "Shipra River Aarti & Holy Bath Rituals"
+  },
+  {
+    "id": "event-1",
+    "title": "Somvati Amavasya",
+    "date": "2026-06-15",
+    "category": "Auspicious Tithi",
+    "significance": "When Amavasya (new moon) falls on a Monday, it becomes exceptionally holy. Monday is dedicated to Lord Shiva.",
+    "benefits": "Take a holy dip in the sacred Shipra River at Ram Ghat in Ujjain to seek blessings for ancestors and wash away obstacles.",
+    "recommendedPackageId": "pkg-1",
+    "temple": "Harsiddhi Shaktipeeth & Ram Ghat",
+    "puja": "Pitru Tarpan Puja & Shipra Aarti"
+  },
+  {
+    "id": "event-2",
+    "title": "Shani Pradosh Vrat",
+    "date": "2026-06-27",
+    "category": "Fortnightly Fast",
+    "significance": "Pradosh Vrat falls on the 13th day of the lunar fortnight. When it falls on a Saturday (Shani), it has special powers to remove planetary blocks.",
+    "benefits": "Praying at Kal Bhairav Temple and Harsiddhi Shaktipeeth in Ujjain on Shani Pradosh offers protection from negative energies.",
+    "recommendedPackageId": "pkg-1",
+    "temple": "Kal Bhairav Temple, Ujjain",
+    "puja": "Kaal Bhairav Puja & Abhishek"
+  },
+  {
+    "id": "event-3",
+    "title": "Shravan Maas (Holy Month Starts)",
+    "date": "2026-07-10",
+    "category": "Holy Month",
+    "significance": "The entire Hindu month of Shravan is dedicated to Lord Shiva. Sawan Mondays are celebrated with grand temple processions (Sawan Sawari) in Ujjain.",
+    "benefits": "Performing assisted Rudrabhishek puja with Vedic Pandit Ji in Ujjain during Shravan brings peace, health, and prosperity to the family.",
+    "recommendedPackageId": "pkg-1",
+    "temple": "Mahakaleshwar Jyotirlinga, Ujjain",
+    "puja": "Grand Sawan Rudrabhishek & Bhasma Aarti"
+  },
+  {
+    "id": "event-4",
+    "title": "Dev Utthani Ekadashi",
+    "date": "2026-11-20",
+    "category": "Auspicious Tithi",
+    "significance": "The day Lord Vishnu awakens from his cosmic sleep, marking the beginning of the holy marriage season and pilgrimage circuits.",
+    "benefits": "Ideal time to complete the Do Dham Yatra (Ujjain & Omkareshwar) with pleasant winter weather and clear river waters.",
+    "recommendedPackageId": "pkg-2",
+    "temple": "Omkareshwar & Mamleshwar Jyotirlinga",
+    "puja": "Mamleshwar Abhishek Puja & Ghat Boat Ride"
+  },
+  {
+    "id": "event-5",
+    "title": "Kartik Poornima & Narmada Parikrama",
+    "date": "2026-11-24",
+    "category": "Holy Pilgrimage",
+    "significance": "Kartik Poornima is highly sacred. It is the peak season to start the holy parikrama around the Mandhata island.",
+    "benefits": "Doing the sacred parikrama path in Omkareshwar on this day fulfills deep devotional vows.",
+    "recommendedPackageId": "pkg-2",
+    "temple": "Omkareshwar Island & Ghats",
+    "puja": "Narmada River Aarti & Jyotirlinga Darshan",
+    "parikrama": "16 km Holy Mandhata Island Parikrama (Omkareshwar)"
+  }
+]

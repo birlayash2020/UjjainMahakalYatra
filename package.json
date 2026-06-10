@@ -9,11 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "jspdf": "^4.2.1",
     "next": "16.3.0-preview.0",
     "react": "19.2.7",
     "react-dom": "19.2.7"
   },
   "devDependencies": {
+    "@next/swc-win32-x64-msvc": "16.3.0-canary.46",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",

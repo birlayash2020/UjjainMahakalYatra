@@ -1,0 +1,29 @@
+{
+  "destinations": [
+    { "id": "dest-1", "name": "Mahakaleshwar Jyotirlinga (Ujjain)", "state": "Madhya Pradesh", "price": 0 },
+    { "id": "dest-2", "name": "Omkareshwar Jyotirlinga (Khandwa)", "state": "Madhya Pradesh", "price": 0 },
+    { "id": "dest-3", "name": "Mamleshwar Mandir", "state": "Madhya Pradesh", "price": 0 },
+    { "id": "dest-4", "name": "Harsiddhi Shaktipeeth", "state": "Madhya Pradesh", "price": 0 },
+    { "id": "dest-5", "name": "Avanthika Parshwanath Jain Tirth", "state": "Madhya Pradesh", "price": 0 },
+    { "id": "dest-6", "name": "Kal Bhairav Temple", "state": "Madhya Pradesh", "price": 0 },
+    { "id": "dest-7", "name": "Kashi Vishwanath Temple (Varanasi)", "state": "Uttar Pradesh", "price": 0 },
+    { "id": "dest-8", "name": "Kedarnath Temple (Himalayas)", "state": "Uttarakhand", "price": 0 },
+    { "id": "dest-9", "name": "Somnath Temple (Veraval)", "state": "Gujarat", "price": 0 }
+  ],
+  "transports": [
+    { "id": "tr-sedan", "name": "AC Sedan (4 Seater)", "pricePerDay": 2500, "capacity": 4, "details": "Best for couples & small families" },
+    { "id": "tr-suv", "name": "AC SUV (Ertiga / Innova)", "pricePerDay": 3500, "capacity": 7, "details": "Spacious ride for 6-7 passengers" },
+    { "id": "tr-traveller", "name": "AC Tempo Traveller", "pricePerDay": 5500, "capacity": 15, "details": "Ideal for larger groups of 12-15" }
+  ],
+  "stays": [
+    { "id": "stay-none", "name": "No Stay Needed", "pricePerNight": 0, "details": "Same-day return travel" },
+    { "id": "stay-standard", "name": "Standard Stay", "pricePerNight": 1500, "details": "Clean rooms with basic amenities" },
+    { "id": "stay-three-star", "name": "3-Star Hotel Stay", "pricePerNight": 2800, "details": "Premium rooms with breakfast & comfort" },
+    { "id": "stay-five-star", "name": "5-Star Luxury Stay", "pricePerNight": 6500, "details": "Top-tier hospitality and services" }
+  ],
+  "devotionalServices": [
+    { "id": "ds-bhasma", "name": "VIP Bhasma Aarti Pass assistance", "price": 500, "type": "per_person", "details": "Guided registration & VIP entry" },
+    { "id": "ds-pandit", "name": "Vedic Pandit Ji Puja conduction", "price": 1500, "type": "fixed", "details": "Sankalp puja conducted by expert pandit" },
+    { "id": "ds-meals", "name": "Satvik Pure Veg Meals Package", "price": 400, "type": "per_person_per_day", "details": "Breakfast, lunch, and dinner" }
+  ]
+}

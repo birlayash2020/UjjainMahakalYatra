@@ -1,0 +1,23 @@
+[
+  {
+    "id": "slide-1",
+    "image": "/images/slide1.png",
+    "subtitle": "SWAYAMBHU JYOTIRLINGA",
+    "title": "Divine Ujjain Mahakaleshwar Yatra",
+    "description": "Seek blessings at the ancient temple of Mahakal, the lord of time and death. Experience the mystical Bhasma Aarti and feel the divine energy of Shipra river."
+  },
+  {
+    "id": "slide-2",
+    "image": "/images/slide2.png",
+    "subtitle": "HOLY NARMADA RIVER",
+    "title": "Omkareshwar & Mamleshwar Tour",
+    "description": "Visit the sacred island shaped like the holy symbol OM. Walk the divine path of Narmada Ghats and seek blessings at Mamleshwar Jyotirlinga."
+  },
+  {
+    "id": "slide-3",
+    "image": "/images/slide3.png",
+    "subtitle": "DEVOTIONAL PILGRIMAGES",
+    "title": "Sacred Hindu & Jain Tirth Yatras",
+    "description": "Embark on a customized soul-stirring journey across India's most revered temple towns, crafted with comfort, devotion, and Vedic traditions."
+  }
+]

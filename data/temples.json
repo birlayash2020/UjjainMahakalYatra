@@ -1,0 +1,87 @@
+[
+  {
+    "id": "temple-1",
+    "name": "Shri Mahakaleshwar Temple",
+    "address": "Mahakal Marg, Ujjain, Madhya Pradesh 456001",
+    "deity": "Lord Shiva (Swayambhu Dakshinabhimukhi Linga)",
+    "desc": "One of the 12 revered Jyotirlingas of Lord Shiva, famous for its grand early morning Bhasma Aarti.",
+    "images": [
+      "/images/gallery_mahakal.png",
+      "/images/slide1.png",
+      "/images/slide3.png"
+    ],
+    "history": "Mentioned in Puranas as the center of the universe. The temple complex is a majestic multi-storey structure with Mahakaleshwar at the bottom, Omkareshwar in the middle, and Nagchandreshwar at the top (which is opened only on Nag Panchami day). It represents the lord of time and death.",
+    "timings": "4:00 AM - 11:00 PM (Bhasma Aarti at 4:00 AM requires advance booking)",
+    "bestTime": "October to March (Pleasant weather) and during Shravan Maas (July-August) for Sawan Somvar Sawari processions.",
+    "dressCode": "Dhoti & Kurta for men, Saree for women required ONLY for entering the inner sanctum (Garbha Griha) during Abhishek rituals.",
+    "rituals": [
+      "Bhasma Aarti (Morning ash ritual)",
+      "Rudrabhishek Puja",
+      "Mahamrityunjay Anushthan",
+      "Sawan Somvar Procession"
+    ]
+  },
+  {
+    "id": "temple-2",
+    "name": "Omkareshwar Jyotirlinga",
+    "address": "Mandhata Island, Narmada River, Khandwa District, Madhya Pradesh 450448",
+    "deity": "Lord Shiva (Omkar Shivaling)",
+    "desc": "A sacred island temple shaped naturally like the holy syllable 'OM', surrounded by the Narmada river.",
+    "images": [
+      "/images/gallery_omkareshwar.png",
+      "/images/narmada_parikrama.png",
+      "/images/slide2.png"
+    ],
+    "history": "Located on Mandhata island, formed by the Narmada and Kaveri rivers. According to Shiva Purana, Mandhata (ancestor of Lord Rama) performed severe penance here, prompting Lord Shiva to manifest as the Jyotirlinga to bless the universe.",
+    "timings": "5:00 AM - 10:00 PM (Shayan Aarti at 8:30 PM is highly divine)",
+    "bestTime": "September to March, especially during Kartik Poornima (November) and Maha Shivratri.",
+    "dressCode": "No strict dress code for general darshan, but modest traditional Indian clothing is recommended.",
+    "rituals": [
+      "Narmada Maha Aarti",
+      "Maha Rudrabhishek",
+      "Omkareshwar Island Parikrama (16km)",
+      "Panchanan Puja"
+    ]
+  },
+  {
+    "id": "temple-3",
+    "name": "Mamleshwar Temple",
+    "address": "South Bank of Narmada River, Omkareshwar, Madhya Pradesh 450448",
+    "deity": "Lord Shiva (Mamlesheshwar / Amareshwar)",
+    "desc": "Considered the spiritual twin of Omkareshwar. The pilgrimage is incomplete without visiting Mamleshwar.",
+    "images": [
+      "/images/mamleshwar_temple.png",
+      "/images/gallery_omkareshwar.png"
+    ],
+    "history": "Also known as Amareshwar temple. It is a monument of national importance protected by the ASI, showcasing beautiful ancient stone carvings and structures dating back to the 10th century.",
+    "timings": "6:00 AM - 9:00 PM",
+    "bestTime": "September to March, matching the Omkareshwar yatra cycle.",
+    "dressCode": "Modest traditional attire. No leather items allowed inside the main temple premises.",
+    "rituals": [
+      "Shiva Sahasranama Archana",
+      "Bilvapatra Archan",
+      "Rudrabhishek by Vedic Pandits"
+    ]
+  },
+  {
+    "id": "temple-4",
+    "name": "Harsiddhi Mata Temple",
+    "address": "Near Ram Ghat, Ujjain, Madhya Pradesh 456001",
+    "deity": "Goddess Harsiddhi (Shaktipeeth - Elbow of Sati)",
+    "desc": "One of the 51 sacred Shaktipeeths of Goddess Sati. Famous for its majestic lamp towers lit up every evening.",
+    "images": [
+      "/images/harsiddhi_lamps.png",
+      "/images/gallery_mahakal.png"
+    ],
+    "history": "Legend states that Goddess Sati's elbow fell here. It was the chosen deity of the legendary King Vikramaditya of Ujjain, who is said to have offered his head to the goddess multiple times to prove his extreme devotion.",
+    "timings": "6:00 AM - 10:00 PM (Lamp lighting ceremony happens during twilight/sunset)",
+    "bestTime": "Navratri festival (September/October) when both 15-foot high lamp pillars (Deepstambhas) holding 1,011 lamps are lit.",
+    "dressCode": "Modest attire. Traditional Indian wear is highly appreciated.",
+    "rituals": [
+      "Deepotsav (Evening lamp lighting)",
+      "Kumkum Archana",
+      "Sri Yantra Puja",
+      "Navratri Chandi Path"
+    ]
+  }
+]
